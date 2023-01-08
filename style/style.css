@@ -1,0 +1,53 @@
+.h
+    {
+        font-size: 60px;
+        text-align: center;
+        font-weight: 1000;
+    }
+.bodyhome
+    {
+    background-color: rgb(236, 133, 74);
+    }
+
+.headerhome
+    {
+    background-color: rgb(255, 60, 0);
+    }   
+.linkshome
+    {
+    color: brown;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    }
+
+
+
+.imgall
+    {
+    width: 500px;
+    height: auto;
+    }
+
+
+
+
+.by
+    {
+    background-color: blueviolet;
+    }
+.hy
+    {
+    color: rgb(192, 150, 164);
+    }
+
+
+
+.bl{
+    background-color: coral;
+}
+.hl{
+    color: rgb(126, 56, 6);
+}
+
+
